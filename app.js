@@ -1,1 +1,1 @@
-console.log("Hola Mundo");
+console.log("Primer control point");
